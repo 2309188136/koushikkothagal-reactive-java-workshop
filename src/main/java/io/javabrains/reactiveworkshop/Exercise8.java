@@ -12,14 +12,25 @@ public class Exercise8 {
         // Use ReactiveSources.intNumbersFluxWithException()
 
         // Print values from intNumbersFluxWithException and print a message when error happens
-        // TODO: Write code here
+//        ReactiveSources.intNumbersFluxWithException().subscribe(System.out::println,
+//                err -> System.out.println(err.getMessage()));
+
+        //doOnError great step to notify and do something when error occurs, it doesn't swallow the error
+//        ReactiveSources.intNumbersFluxWithException()
+//                .doOnError(err -> System.out.println("Error!!!" + err.getMessage()))
+//                .subscribe(num -> System.out.println(num));
 
         // Print values from intNumbersFluxWithException and continue on errors
-        // TODO: Write code here
+//        ReactiveSources.intNumbersFluxWithException()
+//                .onErrorContinue((err, numberItem) -> System.out.println("Error!!!" + err.getMessage()))
+//                .subscribe(num -> System.out.println(num));
 
         // Print values from intNumbersFluxWithException and when errors
         // happen, replace with a fallback sequence of -1 and -2
-        // TODO: Write code here
+        // Print values from intNumbersFluxWithException and continue on errors
+        ReactiveSources.intNumbersFluxWithException()
+                .onErrorResume(err -> Flux.just(-1, -2))
+                .subscribe(num -> System.out.println(num));
 
         System.out.println("Press a key to end");
         System.in.read();
