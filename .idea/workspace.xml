@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/javabrains.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +36,29 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Amazon Corretto/jdk17.0.7_7/lib/src.zip!/java.base/java/lang/Runnable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Amazon Corretto/jdk17.0.7_7/lib/src.zip!/java.base/java/util/stream/AbstractPipeline.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Amazon Corretto/jdk17.0.7_7/lib/src.zip!/java.base/java/util/stream/MatchOps.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Amazon Corretto/jdk17.0.7_7/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Amazon Corretto/jdk17.0.7_7/lib/src.zip!/java.base/java/util/stream/Stream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://C:/Program Files/Amazon Corretto/jdk17.0.7_7/lib/src.zip!/java.base/java/util/stream/TerminalOp.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.4.14/reactor-core-3.4.14-sources.jar!/reactor/core/Disposable.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.4.14/reactor-core-3.4.14-sources.jar!/reactor/core/publisher/BaseSubscriber.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.4.14/reactor-core-3.4.14-sources.jar!/reactor/core/publisher/Flux.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.4.14/reactor-core-3.4.14-sources.jar!/reactor/core/publisher/Mono.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.4.14/reactor-core-3.4.14-sources.jar!/reactor/core/publisher/MonoFlatMap.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.4.14/reactor-core-3.4.14-sources.jar!/reactor/core/publisher/Operators.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.4.14/reactor-core-3.4.14.jar!/reactor/core/publisher/Flux.class" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="27vuubJ8YjgMH3yN1OLMmwH5r2f" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -52,25 +66,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="code.cleanup.on.save" value="true" />
-    <property name="full.screen.before.presentation.mode" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/githubForkedRepo/koushikkothagal-reactive-java-workshop&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise1">
-    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise1" />
+  <component name="RunManager" selected="Application.Exercise9">
+    <configuration name="Exercise3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise3" />
       <module name="reactive-example" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise2" />
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise6" />
       <module name="reactive-example" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercise1" />
-        <item itemvalue="Application.Exercise2" />
-        <item itemvalue="Application.Exercise7" />
         <item itemvalue="Application.Exercise9" />
         <item itemvalue="Application.Exercise8" />
+        <item itemvalue="Application.Exercise7" />
+        <item itemvalue="Application.Exercise3" />
+        <item itemvalue="Application.Exercise6" />
       </list>
     </recent_temporary>
   </component>
@@ -152,8 +173,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650213103534</updated>
+      <workItem from="1689506163855" duration="711000" />
+      <workItem from="1689507131990" duration="784000" />
+      <workItem from="1689587472114" duration="1280000" />
+      <workItem from="1689908095205" duration="4696000" />
+      <workItem from="1690033988763" duration="330000" />
+      <workItem from="1690106744625" duration="3241000" />
+      <workItem from="1690265723715" duration="2832000" />
+      <workItem from="1690291188388" duration="637000" />
+      <workItem from="1690343779144" duration="3451000" />
+      <workItem from="1690517841391" duration="1081000" />
+      <workItem from="1690606305098" duration="751000" />
+      <workItem from="1690777581387" duration="183000" />
+      <workItem from="1690880067163" duration="591000" />
+      <workItem from="1690882977856" duration="3811000" />
+      <workItem from="1690945771686" duration="7711000" />
+      <workItem from="1691046169764" duration="2430000" />
     </task>
+    <task id="LOCAL-00001" summary="begin exercise 5">
+      <option name="closed" value="true" />
+      <created>1690777690563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690777690563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update ignore file">
+      <option name="closed" value="true" />
+      <created>1690777738264</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690777738264</updated>
+    </task>
+    <task id="LOCAL-00003" summary="completed exercise 8">
+      <option name="closed" value="true" />
+      <created>1690987066432</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690987066432</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -165,6 +230,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="begin exercise 5" />
+    <MESSAGE value="update ignore file" />
+    <MESSAGE value="completed exercise 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed exercise 8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
